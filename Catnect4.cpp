@@ -18,7 +18,7 @@ const std::string RED = "\033[31m";
 const std::string YELLOW = "\033[33m";
 const std::string RESET = "\033[0m";
 
-// Fun AI comments
+// Taunts
 const std::vector<std::string> AI_COMMENTS = {
     "Meow! I'm making a purrfect move!",
     "Paws and think... Done!",
